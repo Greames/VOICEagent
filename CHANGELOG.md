@@ -17,6 +17,7 @@ metadata and the backend fallback mirror it.
 - The OpenAI-compatible speech API accepts a voice-profile name as `voice`, and the voice list shows which names work (#2617) — thanks @HuntingSuccubus!
 - New opt-in setting moves the voice model to system RAM after generation, freeing GPU memory for other apps such as a local LLM (#2618) — thanks @HuntingSuccubus!
 - Settings → About credits the speech models VoiceStudio can install, with links to their upstream terms and the required Higgs Audio and Llama notices (#2587)
+- Opper is available as an optional LLM provider (#2667)
 
 ### Changed
 
